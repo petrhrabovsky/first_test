@@ -1,2 +1,3 @@
 # first_test
-Prvn� zkou�ka Gitu.
+První zkouška Gitu.
+Další prava - nový text.
